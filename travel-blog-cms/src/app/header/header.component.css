@@ -1,0 +1,26 @@
+.menu-logo{
+    width: 30px ;
+    height: 30px;
+  }
+
+.logo{
+    padding-left: 25px;
+    width: 55px ;
+    height: 40px;
+}
+
+.head{
+    display: flex;
+    gap: 8px;
+}
+
+.header{
+    background-color: #004666;
+    height: 60px;
+}
+
+.align-right{
+    color: white;
+    float: right;
+    text-align: right;
+}

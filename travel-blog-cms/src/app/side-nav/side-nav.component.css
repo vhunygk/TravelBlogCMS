@@ -1,0 +1,10 @@
+.logo{
+    padding-left: 25px;
+    width: 55px ;
+    height: 30px;
+  }
+  
+  .mat-list-item-disabled {
+    background-color:rgba(0, 0, 0, 0.12) !important;
+    color: rgba(0, 0, 0, 0.26) !important;
+  }
